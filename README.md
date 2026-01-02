@@ -6,7 +6,7 @@ The projects focus on learning by building simple, end-to-end ML workflows using
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 - All projects are created for **practice and learning purposes**
 - Each project explores a specific machine learning concept or algorithm
@@ -14,7 +14,7 @@ The projects focus on learning by building simple, end-to-end ML workflows using
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -24,7 +24,7 @@ The projects focus on learning by building simple, end-to-end ML workflows using
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this repository is to:
 - Build a strong foundation in machine learning
@@ -34,7 +34,7 @@ The goal of this repository is to:
 
 ---
 
-## 📎 Disclaimer
+## Disclaimer
 
 - All work in this repository is **self-implemented**
 - Project ideas are based on commonly available learning problems
@@ -42,4 +42,4 @@ The goal of this repository is to:
 
 ---
 
-⭐ Continuously learning and improving through hands-on practice.
+Continuously learning and improving through hands-on practice.
